@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask-restplus = "*"
+flask-sqlalchemy = "*"
+marshmallow = "*"
+flask-migrate = "*"
+flask-script = "*"
+"flask-argon2" = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
