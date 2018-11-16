@@ -10,7 +10,8 @@
 3. เปิดใช้งาน pipenv โดยการพิมพ์ 
     - $ pipenv install 
     โดยจะต้องอยู่ในตำแหน่งเดียวกันกับโฟล์เดอร์ที่มีไฟล์ Pipfile, Pipfile.lock
-    ในกรณีที่ติดตั้งไปแล้ว สามารถเข้าใช้งานโดยใช้คำสั่ง pipenv shell 
+    ในกรณีที่ติดตั้งไปแล้ว สามารถเข้าใช้งานโดยใช้คำสั่ง 
+    - $ pipenv shell 
 4. ทำการสร้าง Database โดยการใช้คำสั่ง 
     - $ python api.py db init
     - $ python api.py db migrate
