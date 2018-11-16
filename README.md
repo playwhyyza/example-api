@@ -1,7 +1,7 @@
 วิธีการติดตั้ง
 
 ที่สิ่งต้องมี:
-- OS: ubuntu 18.04
+- ubuntu 18.04
 - python: 3.6
 
 1. ติดตั้ง pip โดยใช้คำสั่ง - $ sudo apt install python3-pip
