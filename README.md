@@ -1,7 +1,8 @@
 วิธีการติดตั้ง
 
-OS: ubuntu 18.04
-python: 3.6
+ที่สิ่งต้องมี:
+- OS: ubuntu 18.04
+- python: 3.6
 
 1. ติดตั้ง pip โดยใช้คำสั่ง - $ sudo apt install python3-pip
 2. ทำการติดตั้ง pipenv โดยใช้คำสั่ง 
